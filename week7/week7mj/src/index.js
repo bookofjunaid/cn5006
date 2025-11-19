@@ -14,7 +14,7 @@ root.render(
     <EmojeeCounter pic='Love'/>
 <EmojeeCounter pic='sad'/>
 <EmojeeCounter pic='Like'/>
-  </React.StrictMode>
+  </React.StrictMode> 
 );
 
 // If you want to start measuring performance in your app, pass a function
