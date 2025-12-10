@@ -1,7 +1,7 @@
 let mongoose= require('mongoose')
 const BookScheme= new mongoose.Schema({
  booktitle:{
-    e:String,
+    type:String,
  required:true
  },
  PubYear:Number,
